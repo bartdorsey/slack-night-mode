@@ -1,4 +1,4 @@
-code { font-family: "Fira Code"; }
+code, pre { font-family: "Fira Code"; font-variant-ligatures: normal; }
 
 body { background: #222; color: #e6e6e6; }
 

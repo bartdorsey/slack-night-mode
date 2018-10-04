@@ -1,7 +1,8 @@
 // Font Families
 $base-font-family: "Fira Code", monospace;
 
-code {
-    font-family: "Fira Code"
+code, pre {
+    font-family: "Fira Code";
+    font-variant-ligatures: normal;
 }
 
